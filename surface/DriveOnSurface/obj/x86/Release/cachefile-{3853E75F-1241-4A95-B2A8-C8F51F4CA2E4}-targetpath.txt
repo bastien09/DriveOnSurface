@@ -1,3 +1,0 @@
-Content\background.xnb
-Content\Car3.xnb
-Content\SpriteFont1.xnb

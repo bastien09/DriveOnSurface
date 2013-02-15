@@ -1,4 +1,0 @@
-﻿{
-  	"server-url": "http://localhost:3333/",
-	"full-screen" : "true"
-}
